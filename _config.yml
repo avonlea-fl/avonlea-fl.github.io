@@ -10,17 +10,20 @@
 ############################
 
 # Name of website
-title: My website
+title: Avonlea Florida Community
 
 # Your name to show in the footer
-author: Some Person
+author: Avonlea Community
+
+# short description, e.g. "Official website for the Avonlea, FL community"
+description: "News, documents, and updates for Avonlea homeowners."
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Documents: "Documents"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
