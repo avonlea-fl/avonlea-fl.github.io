@@ -18,6 +18,9 @@ author: Avonlea Community
 # short description, e.g. "Official website for the Avonlea, FL community"
 description: "News, documents, and updates for Avonlea homeowners."
 
+# Repository
+repository: avonlea-fl/avonlea-fl.github.io
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
