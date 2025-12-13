@@ -4,10 +4,10 @@ author:
   name: Avonlea Community
 repository: avonlea-fl/avonlea-fl.github.io
 
-theme: minimal-mistakes-jekyll
-
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 minimal_mistakes_skin: default
 
