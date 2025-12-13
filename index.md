@@ -18,8 +18,4 @@ Situated at one of the highest elevations in Marion county, the community is per
 * **Lake Access:** Homeowners enjoy guaranteed access to the private lake via two common areas, featuring a dock, ramp, and sandy beach.
 * **Horses & Pets:** Avonlea is an equestrian-friendly community. Horses are welcome as specified in the deed restrictions, and the terrain is perfect for our four-legged friends.
 
-### Community Status
-
-Avonlea is a fully established community with all lots sold. This website serves as a resource for our residents.
-
 **Enjoy life at Avonlea....a finer way of living.**
