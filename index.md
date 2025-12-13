@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: single
 title: Avonlea Community
-subtitle: Welcome to our neighborhood
+excerpt: Welcome to our neighborhood
 ---
 
 # Avonlea at Smith Lake
