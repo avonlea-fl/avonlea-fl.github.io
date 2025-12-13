@@ -1,5 +1,7 @@
 title: Avonlea at Smith Lake Florida
 description: "News, documents, and updates for Avonlea homeowners."
+url: "https://avonlea-fl.github.io"
+baseurl: ""
 author: 
   name: Avonlea Community
 repository: avonlea-fl/avonlea-fl.github.io
@@ -9,5 +11,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 
