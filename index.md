@@ -2,6 +2,9 @@
 layout: single
 title: Avonlea Community
 excerpt: Welcome to our neighborhood
+header:
+  image: /assets/img/avonlea_entry.png
+  image_description: "Avonlea Entry"
 ---
 
 # Smith Lake
