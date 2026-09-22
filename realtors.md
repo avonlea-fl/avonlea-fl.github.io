@@ -37,7 +37,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Construction timeline:** All construction must be completed within 12 months of the building permit. Exterior construction and landscaping must be finished before the home is occupied.
 * **Tree removal:** No living tree larger than 8 inches in diameter (measured 2 feet above ground) may be removed without prior ARB approval.
 * **Landscaping:** Lots must be fully landscaped and grassed per ARB-approved plans before occupancy. Decorative rock yards, paved yards, and artificial vegetation are prohibited.
-* **Rentals:** _TBD_ (short-term rental policy, minimum lease term)
+* **Rentals:** Not permitted. Homes in Avonlea may not be rented or leased, including short-term rentals.
 * **Livestock and animals:** Horses are permitted at one horse per two acres owned, with a maximum of two horses per lot regardless of lot size. Offspring under one year old do not count toward the limit. Commercial or noncommercial breeding or raising of dogs, cattle, goats, poultry, rabbits, or dairy animals is not permitted.
 
 ### Roads, Gates, and Access
