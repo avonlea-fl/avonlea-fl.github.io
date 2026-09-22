@@ -21,9 +21,9 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 ### Homeowners Association
 
 * **HOA name:** Avonlea Homeowners Association
-* **Annual dues:** _TBD_
-* **Dues cover:** _TBD_ (e.g., common area maintenance, road maintenance, insurance)
-* **Estoppel / status letter requests:** _TBD_ (who to contact, expected turnaround, any fee)
+* **Annual dues:** $1,020 per year
+* **Dues cover:** Common area maintenance, road maintenance, front gate, and insurance. Trash service is not included.
+* **Estoppel certificate requests:** Email the HOA treasurer at [avonleahoatreasurer@gmail.com](mailto:avonleahoatreasurer@gmail.com). Include the property address, owner name, and closing date. The fee is $200, payable to Avonlea HOA, and certificates are delivered within 10 business days.
 
 ### Deed Restrictions and Governing Documents
 
@@ -42,23 +42,22 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 ### Roads, Gates, and Access
 
-* **Road ownership and maintenance:** _TBD_ (private vs. county)
-* **Gate:** _TBD_ (gated or not; how showing access works)
-* **Mail delivery:** _TBD_
+* **Roads:** Private roads owned and maintained by the HOA, not Marion County.
+* **Gate:** Avonlea has a front gate maintained by the HOA. New lot buyers receive two remote controls at closing. For showings, ask the property owner for the gate code.
+* **Mail delivery:** USPS delivers to cluster mailboxes near the front gate. There is no door-to-door delivery.
 
 ### Utilities and Services
 
-* **Water:** _TBD_ (private wells)
-* **Sewer:** _TBD_ (septic)
-* **Electric:** _TBD_ (provider)
-* **Internet:** _TBD_ (providers available)
-* **Trash:** _TBD_
+* **Water:** Private well on each lot. There is no community or municipal water service.
+* **Sewer:** Septic system on each lot. There is no community or municipal sewer service.
+* **Electric:** Duke Energy, with underground service throughout the community
+* **Internet:** Spectrum serves the community. Other providers may be available; check availability for the specific lot.
+* **Trash:** Not included in HOA dues. [Florida Express](https://www.floridaexpress.us) is the only trash service approved for the community. Homeowners contract with them individually.
 
 ### Schools and Nearby
 
-* **School zoning:** _TBD_
-* **Nearest towns and shopping:** _TBD_
-* **Ocala / Gainesville drive times:** _TBD_
+* **School zoning:** Avonlea is served by Marion County Public Schools. Zoning is by address, so use the district's [Find Your Zoned School](https://www.marionschools.net/parents__students__and_community/parents/Student_Enrollment/your_zoned_school) lookup for the specific lot.
+* **Nearest town:** Belleview. All addresses in the community use Belleview, FL as the city.
 
 ### Contact
 
