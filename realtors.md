@@ -62,7 +62,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 ### Contact
 
-For questions not answered here, please contact the HOA at [travis.blake@comcast.net](mailto:travis.blake@comcast.net).
+For questions not answered here, please contact the HOA at [kentscaff@gmail.com](mailto:kentscaff@gmail.com).
 
 **Note:** The HOA does not interpret the covenants or deed restrictions for prospective buyers. The summary on this page is provided for convenience only, and the full Declaration and any amendments govern. For questions about how the restrictions apply to a specific purchase, buyers should consult a Florida real estate attorney.
 {: .notice--info}
