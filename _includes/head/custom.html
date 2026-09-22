@@ -1,0 +1,8 @@
+{% comment %}
+  Site-specific additions to <head>. Minimal Mistakes includes this file
+  at the end of its head.html. Set `noindex: true` in a page's front matter
+  to keep search engines from indexing it.
+{% endcomment %}
+{% if page.noindex %}
+<meta name="robots" content="noindex, nofollow">
+{% endif %}
