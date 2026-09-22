@@ -31,7 +31,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Declaration of Covenants and Restrictions:** [Summary of key covenants for prospective buyers (PDF)](/docs/DeclarationOfCovenants_Avonlea.pdf). This is a short list only. The full Declaration and any amendments are available from the HOA on request, and buyers are responsible for reading and adhering to them.
 * **Architectural review:** Yes. Any new construction, remodeling, structural addition, landscaping, roofing, exterior painting, fence, driveway, or variance from the covenants must be approved by the Avonlea Architectural Review Board (ARB) before work begins. Submit the [Request for Board / ARB Approval Form (PDF)](/docs/Avonlea2024HoaRequestForConsiderationForm.Pdf) with plans to any HOA Board or ARB member at least 10 days before the next scheduled meeting. The ARB has 60 days to approve or reject submitted plans.
 * **Permitted use:** Residential and agricultural only. Commercial uses are prohibited except commercial breeding and raising of horses, and haying.
-* **Minimum home size:** 2,300 square feet of heated and cooled living space, excluding garages, porches, decks, pools, basements, attics, and detached structures
+* **Minimum home size:** 2,300 square feet of heated and cooled living space, excluding garages, porches, decks, pools, basements, attics, and detached structures.
 * **Construction standards:** Conventional construction built on site. Mobile homes, modular homes, and homes moved from another location are prohibited. Maximum two stories. Main roof pitch of at least 6/12 with architectural shingles, tile, or metal shingles. Stucco that simulates stone or brick is not allowed.
 * **Garages:** Each home must have an attached or detached garage for at least two automobiles. Garage doors may not face the street. No on-street parking.
 * **One dwelling per lot:** Lots may not be subdivided. A garage apartment, guest house, barn, or other outbuilding may be permitted with ARB approval.
@@ -51,7 +51,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 * **Water:** Private well on each lot. There is no community or municipal water service.
 * **Sewer:** Septic system on each lot. There is no community or municipal sewer service.
-* **Electric:** Duke Energy, with underground service throughout the community
+* **Electric:** Duke Energy, with underground service throughout the community.
 * **Internet:** Spectrum serves the community. Other providers may be available; check availability for the specific lot.
 * **Trash:** Not included in HOA dues. [Florida Express](https://www.floridaexpress.us) is the only trash service approved for the community. Homeowners contract with them individually.
 
