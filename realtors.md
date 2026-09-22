@@ -34,7 +34,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Minimum home size:** 2,300 square feet of heated and cooled living space, excluding garages, porches, decks, pools, basements, attics, and detached structures.
 * **Construction standards:** Conventional construction built on site. Mobile homes, modular homes, and homes moved from another location are prohibited. Maximum two stories. Main roof pitch of at least 6/12 with architectural shingles, tile, or metal shingles. Stucco that simulates stone or brick is not allowed.
 * **Garages:** Each home must have an attached or detached garage for at least two automobiles. Garage doors may not face the street. No on-street parking.
-* **One dwelling per lot:** Lots may not be subdivided. A garage apartment, guest house, barn, or other outbuilding may be permitted with ARB approval.
+* **One dwelling per lot:** Only one dwelling may be built on each lot. A garage apartment, guest house, barn, or other outbuilding may be permitted with ARB approval. Lots may not be subdivided, except to transfer land to an adjoining owner's property that will still hold no more than one dwelling.
 * **Construction timeline:** All construction must be completed within 12 months of the building permit. Exterior construction and landscaping must be finished before the home is occupied.
 * **Tree removal:** No living tree larger than 8 inches in diameter (measured 2 feet above ground) may be removed without prior ARB approval.
 * **Landscaping:** Lots must be fully landscaped and grassed per ARB-approved plans before occupancy. Decorative rock yards, paved yards, and artificial vegetation are prohibited.
