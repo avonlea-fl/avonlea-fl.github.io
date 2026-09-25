@@ -48,6 +48,7 @@ The full Declaration and all amendments are linked first, followed by a short li
 * **Landscaping (§5.7.6):** Lots must be fully landscaped and grassed per ARB-approved plans before occupancy. Decorative rock yards, paved yards, and artificial vegetation are prohibited.
 * **Burning and fire pits (§5.8.3):** No burning of rubbish, leaves, or trash without ARB approval. Wood may be burned in a decorative fire pit whose design and location the ARB has approved.
 * **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The plat shows the easements on each lot.
+* **Leasing (§5.9):** Homes may be leased for residential use only, with a minimum lease term of three months, so short-term rentals are not allowed. Leases must be in writing, tenants are bound by the Declaration, and the Association may terminate a lease if the tenant violates the Declaration.
 * **Livestock and animals (§5.4):** Horses are permitted at one horse per two acres owned, with a maximum of two horses per lot regardless of lot size. Offspring under one year old do not count toward the limit. Commercial or noncommercial breeding or raising of dogs, cattle, goats, poultry, rabbits, or dairy animals is not permitted.
 
 ### Roads, Gates, and Access
