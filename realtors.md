@@ -28,7 +28,14 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 ### Deed Restrictions and Governing Documents
 
-* **Declaration of Covenants and Restrictions:** [Summary of key covenants for prospective buyers (PDF)](/docs/DeclarationOfCovenants_Avonlea.pdf). This is a short list only. The full Declaration and any amendments are available from the HOA on request, and buyers are responsible for reading and adhering to them.
+* **Declaration of Covenants and Restrictions:** [Summary of key covenants for prospective buyers (PDF)](/docs/DeclarationOfCovenants_Avonlea.pdf). This is a short list only. The full Declaration and all amendments are linked below, and buyers are responsible for reading and adhering to them.
+* **Recorded governing documents:** Copies from the Official Records of Marion County, Florida. Recording dates and book/page references are shown so each document can be verified against the [official record](https://nvweb.marioncountyclerk.org/BrowserView/viewer.aspx?docID=3884021), where the Clerk's "Linked Documents" list connects the Declaration to each amendment.
+  * [Declaration of Covenants and Restrictions for Avonlea (PDF)](/docs/covenants/2007-06-20_Declaration_OR4822-759.pdf), recorded 06/20/2007, OR Book 4822, Page 759
+  * [First Amendment (PDF)](/docs/covenants/2008-09-18_Amendment_OR5097-1742.pdf), re-recorded 09/18/2008, OR Book 5097, Page 1742
+  * [Second Amendment (PDF)](/docs/covenants/2017-03-13_Amendment_OR6545-438.pdf), recorded 03/13/2017, OR Book 6545, Page 438
+  * [Third Amendment (PDF)](/docs/covenants/2017-03-23_Amendment_OR6550-1936.pdf), recorded 03/23/2017, OR Book 6550, Page 1936
+  * [Fourth Amendment (PDF)](/docs/covenants/2019-11-19_Amendment_OR7081-246.pdf), recorded 11/19/2019, OR Book 7081, Page 246
+  * [Certificate of Fourth Amendment (PDF)](/docs/covenants/2024-12-11_Amendment_OR8491-168.pdf), adopted 03/04/2023 and recorded 12/11/2024, OR Book 8491, Page 168. Although titled "Fourth Amendment," this is a separate, later amendment from the one recorded in 2019.
 * **Architectural review:** Yes. Any new construction, remodeling, structural addition, landscaping, roofing, exterior painting, fence, driveway, or variance from the covenants must be approved by the Avonlea Architectural Review Board (ARB) before work begins. Submit the [Request for Board / ARB Approval Form (PDF)](/docs/Avonlea2024HoaRequestForConsiderationForm.Pdf) with plans to any HOA Board or ARB member at least 10 days before the next scheduled meeting. The ARB has 60 days to approve or reject submitted plans.
 * **Permitted use:** Residential and agricultural only. Commercial uses are prohibited except commercial breeding and raising of horses, and haying.
 * **Minimum home size:** 2,300 square feet of heated and cooled living space, excluding garages, porches, decks, pools, basements, attics, and detached structures.
@@ -64,5 +71,5 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 For questions not answered here, please contact the HOA at [kentscaff@gmail.com](mailto:kentscaff@gmail.com).
 
-**Note:** The HOA does not interpret the covenants or deed restrictions for prospective buyers. The summary on this page is provided for convenience only, and the full Declaration and any amendments govern. For questions about how the restrictions apply to a specific purchase, buyers should consult a Florida real estate attorney.
+**Note:** The HOA does not interpret the covenants or deed restrictions for prospective buyers. The summary on this page is provided for convenience only, and the recorded Declaration and amendments govern. For questions about how the restrictions apply to a specific purchase, buyers should consult a Florida real estate attorney.
 {: .notice--info}
