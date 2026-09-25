@@ -77,7 +77,7 @@ A short list of key restrictions for prospective buyers, with section references
 
 ### Contact
 
-For questions not answered here, please contact the HOA at [kentscaff@gmail.com](mailto:kentscaff@gmail.com).
+For questions not answered here, please contact the HOA at [avonleahoainfo@gmail.com](mailto:avonleahoainfo@gmail.com).
 
 **Note:** The HOA does not interpret the covenants or deed restrictions for prospective buyers. The summary on this page is provided for convenience only, and the recorded Declaration and amendments govern. For questions about how the restrictions apply to a specific purchase, buyers should consult a Florida real estate attorney.
 {: .notice--info}
