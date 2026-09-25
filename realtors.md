@@ -28,7 +28,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 ### Governing Documents
 
-Copies of the recorded Declaration of Covenants and Restrictions and all amendments, from the Official Records of Marion County, Florida. Recording dates and book/page references are shown so each document can be verified against the [official record](https://nvweb.marioncountyclerk.org/BrowserView/viewer.aspx?docID=3884021), where the Clerk's "Linked Documents" list connects the Declaration to each amendment. Buyers are responsible for reading and adhering to these documents.
+Copies of the recorded Declaration of Covenants and Restrictions and all amendments, from the Official Records of Marion County, Florida. Recording dates and book/page references are shown so each document can be verified in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/). Searching for the Declaration (OR Book 4822, Page 759) shows a "Linked Documents" list that connects it to each amendment. Buyers are responsible for reading and adhering to these documents.
 
 * [Declaration of Covenants and Restrictions for Avonlea (PDF)](/docs/covenants/2007-06-20_Declaration_OR4822-759.pdf), recorded 06/20/2007, OR Book 4822, Page 759
 * [First Amendment (PDF)](/docs/covenants/2008-09-18_Amendment_OR5097-1742.pdf), re-recorded 09/18/2008, OR Book 5097, Page 1742
