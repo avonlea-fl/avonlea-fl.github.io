@@ -23,7 +23,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 * **HOA name:** Avonlea Homeowners Association
 * **Annual dues:** $1,000 per year
-* **Dues cover:** Common area maintenance, road maintenance, front gate, and insurance. Trash service is not included.
+* **Dues cover:** Common area maintenance, road maintenance, and the front gate. Trash service is not included.
 * **Estoppel certificate requests:** Email the HOA treasurer at [avonleahoatreasurer@gmail.com](mailto:avonleahoatreasurer@gmail.com). Include the property address, owner name, and closing date. The fee is $200, payable to Avonlea HOA, and certificates are delivered within 10 business days.
 
 ### Governing Documents
