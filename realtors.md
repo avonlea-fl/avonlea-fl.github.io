@@ -26,19 +26,25 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Dues cover:** Common area maintenance, road maintenance, front gate, and insurance. Trash service is not included.
 * **Estoppel certificate requests:** Email the HOA treasurer at [avonleahoatreasurer@gmail.com](mailto:avonleahoatreasurer@gmail.com). Include the property address, owner name, and closing date. The fee is $200, payable to Avonlea HOA, and certificates are delivered within 10 business days.
 
-### Deed Restrictions and Governing Documents
+### Governing Documents
 
-The full Declaration and all amendments are linked first, followed by a short list of key restrictions for prospective buyers, with section references to the Declaration as amended. Buyers are responsible for reading and adhering to the full documents.
+Copies of the recorded Declaration of Covenants and Restrictions and all amendments, from the Official Records of Marion County, Florida. Recording dates and book/page references are shown so each document can be verified against the [official record](https://nvweb.marioncountyclerk.org/BrowserView/viewer.aspx?docID=3884021), where the Clerk's "Linked Documents" list connects the Declaration to each amendment. Buyers are responsible for reading and adhering to these documents.
 
-* **Recorded governing documents:** Copies from the Official Records of Marion County, Florida. Recording dates and book/page references are shown so each document can be verified against the [official record](https://nvweb.marioncountyclerk.org/BrowserView/viewer.aspx?docID=3884021), where the Clerk's "Linked Documents" list connects the Declaration to each amendment.
-  * [Declaration of Covenants and Restrictions for Avonlea (PDF)](/docs/covenants/2007-06-20_Declaration_OR4822-759.pdf), recorded 06/20/2007, OR Book 4822, Page 759
-  * [First Amendment (PDF)](/docs/covenants/2008-09-18_Amendment_OR5097-1742.pdf), re-recorded 09/18/2008, OR Book 5097, Page 1742
-  * [Second Amendment (PDF)](/docs/covenants/2017-03-13_Amendment_OR6545-438.pdf), recorded 03/13/2017, OR Book 6545, Page 438
-  * [Third Amendment (PDF)](/docs/covenants/2017-03-23_Amendment_OR6550-1936.pdf), recorded 03/23/2017, OR Book 6550, Page 1936
-  * [Fourth Amendment (PDF)](/docs/covenants/2019-11-19_Amendment_OR7081-246.pdf), recorded 11/19/2019, OR Book 7081, Page 246
-  * [Certificate of Fourth Amendment (PDF)](/docs/covenants/2024-12-11_Amendment_OR8491-168.pdf), adopted 03/04/2023 and recorded 12/11/2024, OR Book 8491, Page 168. Although titled "Fourth Amendment," this is a separate, later amendment from the one recorded in 2019.
-* **Architectural review (§5.3):** Yes. Any new construction, remodeling, structural addition, landscaping, roofing, exterior painting, fence, driveway, or variance from the covenants must be approved by the Avonlea Architectural Review Board (ARB) before work begins. Submit the [Request for Board / ARB Approval Form (PDF)](/docs/Avonlea2024HoaRequestForConsiderationForm.Pdf) with plans to any HOA Board or ARB member at least 10 days before the next scheduled meeting. Once it has all required documents and any fee, the ARB has 30 days to approve or reject the work. Work not approved within 30 days is deemed rejected. The ARB may grant written variances only from architectural provisions and other items the Declaration makes subject to ARB approval.
+* [Declaration of Covenants and Restrictions for Avonlea (PDF)](/docs/covenants/2007-06-20_Declaration_OR4822-759.pdf), recorded 06/20/2007, OR Book 4822, Page 759
+* [First Amendment (PDF)](/docs/covenants/2008-09-18_Amendment_OR5097-1742.pdf), re-recorded 09/18/2008, OR Book 5097, Page 1742
+* [Second Amendment (PDF)](/docs/covenants/2017-03-13_Amendment_OR6545-438.pdf), recorded 03/13/2017, OR Book 6545, Page 438
+* [Third Amendment (PDF)](/docs/covenants/2017-03-23_Amendment_OR6550-1936.pdf), recorded 03/23/2017, OR Book 6550, Page 1936
+* [Fourth Amendment (PDF)](/docs/covenants/2019-11-19_Amendment_OR7081-246.pdf), recorded 11/19/2019, OR Book 7081, Page 246
+* [Certificate of Fourth Amendment (PDF)](/docs/covenants/2024-12-11_Amendment_OR8491-168.pdf), adopted 03/04/2023 and recorded 12/11/2024, OR Book 8491, Page 168. Although titled "Fourth Amendment," this is a separate, later amendment from the one recorded in 2019.
+
+### Deed Restrictions
+
+A short list of key restrictions for prospective buyers, with section references to the Declaration as amended.
+
+* **Architectural review (§5.3):** Yes. Any new construction, remodeling, structural addition, landscaping, roofing, exterior painting, fence, or driveway must be approved by the Avonlea Architectural Review Board (ARB) before work begins. Submit the [Request for Board / ARB Approval Form (PDF)](/docs/Avonlea2024HoaRequestForConsiderationForm.Pdf) with plans to any HOA Board or ARB member at least 10 days before the next scheduled meeting. Once it has all required documents and any fee, the ARB has 30 days to approve or reject the work. Work not approved within 30 days is deemed rejected.
+* **ARB variances (§5.3.8):** The ARB may grant written variances only from architectural provisions and other items the Declaration makes subject to ARB approval.
 * **Permitted use (§5.4):** Residential and agricultural only. Commercial uses are prohibited except commercial breeding and raising of horses, and haying.
+* **Livestock and animals (§5.4):** Horses are permitted at one horse per two acres owned, with a maximum of two horses per lot regardless of lot size. Offspring under one year old do not count toward the limit. Commercial or noncommercial breeding or raising of dogs, cattle, goats, poultry, rabbits, or dairy animals is not permitted.
 * **Minimum home size (§5.5.1):** 2,300 square feet of heated and cooled living space, excluding garages, porches, decks, pools, basements, attics, and detached structures.
 * **Construction standards (§5.5.1–5.5.3):** Conventional construction built on site. Mobile homes, modular homes, and homes moved from another location are prohibited. Maximum two stories. Exterior walls at least 9 feet 4 inches high. Main roof pitch of at least 6/12, fascia at least 6 inches wide, and architectural shingles, tile, or metal shingles. Roof vents must be on the rear of the main ridge.
 * **Garages (§5.5.4):** Each home must have an attached or detached garage for at least two automobiles. The ARB may prohibit garage doors that face a road. Garage doors must be opaque and kept closed except when in use. No on-street parking.
@@ -49,7 +55,6 @@ The full Declaration and all amendments are linked first, followed by a short li
 * **Burning and fire pits (§5.8.3):** No burning of rubbish, leaves, or trash without ARB approval. Wood may be burned in a decorative fire pit whose design and location the ARB has approved.
 * **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The plat shows the easements on each lot.
 * **Leasing (§5.9):** Homes may be leased for residential use only, with a minimum lease term of three months, so short-term rentals are not allowed. Leases must be in writing, tenants are bound by the Declaration, and the Association may terminate a lease if the tenant violates the Declaration.
-* **Livestock and animals (§5.4):** Horses are permitted at one horse per two acres owned, with a maximum of two horses per lot regardless of lot size. Offspring under one year old do not count toward the limit. Commercial or noncommercial breeding or raising of dogs, cattle, goats, poultry, rabbits, or dairy animals is not permitted.
 
 ### Roads, Gates, and Access
 
