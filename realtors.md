@@ -14,7 +14,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 * **Location:** Marion County, Florida, adjacent to Smith Lake
 * **Home sites:** Two to over eight acres, averaging five acres
-* **Lake access:** Private lake access via a common area with a boat ramp and pier
+* **Lake access:** Private lake access via a common area with a boat ramp, pier, and parking lot with room for boat trailers
 * **Horses:** Equestrian-friendly, as specified in the deed restrictions
 * **Utilities:** Underground electrical service and street lights throughout
 * **Hamlet designation:** Avonlea is developed as a "Hamlet" under the Marion County Comprehensive Plan. No more than 40% of the gross land area may be developed, and at least 60% must remain permanent open space, including agricultural use. The plat shows the developable portion of each lot.
