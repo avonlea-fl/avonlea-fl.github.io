@@ -28,14 +28,14 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 
 ### Governing Documents
 
-Copies of the recorded Declaration of Covenants and Restrictions and all amendments, from the Official Records of Marion County, Florida. Recording dates and book/page references are shown so each document can be verified in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/). Searching for the Declaration (OR Book 4822, Page 759) shows a "Linked Documents" list that connects it to each amendment. Buyers are responsible for reading and adhering to these documents.
+Copies of the recorded Declaration of Covenants and Restrictions and all amendments, from the Official Records of Marion County, Florida. Recording dates, file numbers, and book/page references are shown so each document can be verified in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/). Searching for the Declaration by File No. 2007083743 (or on the Book/Page tab, OR Book 4822, Page 759) shows a "Linked Documents" list that connects it to each amendment. Buyers are responsible for reading and adhering to these documents.
 
-* [Declaration of Covenants and Restrictions for Avonlea (PDF)](/docs/covenants/2007-06-20_Declaration_OR4822-759.pdf), recorded 06/20/2007, OR Book 4822, Page 759
-* [First Amendment (PDF)](/docs/covenants/2008-09-18_Amendment_OR5097-1742.pdf), re-recorded 09/18/2008, OR Book 5097, Page 1742
-* [Second Amendment (PDF)](/docs/covenants/2017-03-13_Amendment_OR6545-438.pdf), recorded 03/13/2017, OR Book 6545, Page 438
-* [Third Amendment (PDF)](/docs/covenants/2017-03-23_Amendment_OR6550-1936.pdf), recorded 03/23/2017, OR Book 6550, Page 1936
-* [Fourth Amendment (PDF)](/docs/covenants/2019-11-19_Amendment_OR7081-246.pdf), recorded 11/19/2019, OR Book 7081, Page 246
-* [Certificate of Fourth Amendment (PDF)](/docs/covenants/2024-12-11_Amendment_OR8491-168.pdf), adopted 03/04/2023 and recorded 12/11/2024, OR Book 8491, Page 168. Although titled "Fourth Amendment," this is a separate, later amendment from the one recorded in 2019.
+* [Declaration of Covenants and Restrictions for Avonlea (PDF)](/docs/covenants/2007-06-20_Declaration_OR4822-759.pdf), recorded 06/20/2007, File No. 2007083743, OR Book 4822, Page 759
+* [First Amendment (PDF)](/docs/covenants/2008-09-18_Amendment_OR5097-1742.pdf), re-recorded 09/18/2008, File No. 2008094425, OR Book 5097, Page 1742
+* [Second Amendment (PDF)](/docs/covenants/2017-03-13_Amendment_OR6545-438.pdf), recorded 03/13/2017, File No. 2017022722, OR Book 6545, Page 438
+* [Third Amendment (PDF)](/docs/covenants/2017-03-23_Amendment_OR6550-1936.pdf), recorded 03/23/2017, File No. 2017026320, OR Book 6550, Page 1936
+* [Fourth Amendment (PDF)](/docs/covenants/2019-11-19_Amendment_OR7081-246.pdf), recorded 11/19/2019, File No. 2019121705, OR Book 7081, Page 246
+* [Certificate of Fourth Amendment (PDF)](/docs/covenants/2024-12-11_Amendment_OR8491-168.pdf), adopted 03/04/2023 and recorded 12/11/2024, File No. 2024162535, OR Book 8491, Page 168. Although titled "Fourth Amendment," this is a separate, later amendment from the one recorded in 2019.
 
 ### Deed Restrictions
 
