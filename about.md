@@ -2,6 +2,9 @@
 layout: single
 title: About Avonlea
 permalink: /about/
+header:
+  image: /assets/img/lane_to_smith_lake.jpg
+  image_description: "Fence-lined lane under live oaks leading down to Smith Lake"
 ---
 
 ### Community Features
