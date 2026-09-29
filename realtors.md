@@ -5,11 +5,7 @@ permalink: /realtors/
 header:
   image: /assets/img/smith_lake_pier.jpg
   image_description: "The community pier on Smith Lake, framed by Spanish moss"
-sitemap: false
-noindex: true
 ---
-
-<!-- This page is intentionally left out of the site navigation. Share the direct link: https://avonlea-fl.org/realtors/ -->
 
 Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page collects the details agents most often ask about. Please share it with your clients.
 
