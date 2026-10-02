@@ -1,15 +1,32 @@
 title: Avonlea at Smith Lake Florida
-description: "News, documents, and updates for Avonlea homeowners."
-url: "https://avonlea-fl.github.io"
+description: "Avonlea at Smith Lake is a gated community of acreage home sites on Smith Lake in Marion County, Florida."
+url: "https://avonlea-fl.org"
 baseurl: ""
-author: 
+author:
   name: Avonlea Community
 repository: avonlea-fl/avonlea-fl.github.io
 
-remote_theme: mmistakes/minimal-mistakes
+# Pinned to a release so a theme update cannot change the site unannounced
+remote_theme: mmistakes/minimal-mistakes@4.28.1
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 minimal_mistakes_skin: air
 
+# The site has no posts, so hide the links to a feed that does not exist
+atom_feed:
+  hide: true
+
+# Describe the site to search engines as an organization, not a person
+social:
+  type: Organization
+  name: Avonlea Homeowners Association
+
+# Keep the PDFs in /docs/ out of the sitemap; robots.txt blocks them too
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      sitemap: false

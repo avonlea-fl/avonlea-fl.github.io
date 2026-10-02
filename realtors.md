@@ -2,6 +2,7 @@
 layout: single
 title: Information for Real Estate Agents
 permalink: /realtors/
+description: "For real estate agents with a buyer or seller in Avonlea at Smith Lake: HOA dues, estoppel requests, governing documents, deed restrictions, utilities, and gate access."
 toc: true
 toc_sticky: true
 header:
