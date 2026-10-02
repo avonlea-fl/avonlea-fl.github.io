@@ -17,14 +17,15 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Home sites:** Two to over eight acres, averaging five acres
 * **Lake access:** Private lake access via a common area with a boat ramp, pier, and parking lot with room for boat trailers
 * **Horses:** Equestrian-friendly, as specified in the deed restrictions
-* **Utilities:** Underground electrical service and street lights throughout
+* **Utilities:** Underground electrical service throughout
+* **Street lights:** Street lights throughout the community, paid for by HOA dues
 * **Hamlet designation:** Avonlea is developed as a "Hamlet" under the Marion County Comprehensive Plan. No more than 40% of the gross land area may be developed, and at least 60% must remain permanent open space, including agricultural use. The plat shows the developable portion of each lot.
 
 ### Homeowners Association
 
 * **HOA name:** Avonlea Homeowners Association
 * **Annual dues:** $1,000 per year
-* **Dues cover:** Common area maintenance, road maintenance, and the front gate. Trash service is not included.
+* **Dues cover:** Common area maintenance, road maintenance, the front gate, street lights, and the entrance fountain. Trash service is not included.
 * **Estoppel certificate requests:** Email the HOA treasurer at [avonleahoatreasurer@gmail.com](mailto:avonleahoatreasurer@gmail.com). Include the property address, owner name, and closing date. The fee is $200, payable to Avonlea HOA, and certificates are delivered within 10 business days.
 
 ### Governing Documents
