@@ -17,7 +17,8 @@
   Banner images are full width, so on a large monitor they grow tall enough
   to fill the whole window. Cap the height and crop the image to fit.
   The front gate photo is already cropped tight to the pavers at the
-  bottom, so crop it from the top (sky) only.
+  bottom, so crop it from the top (sky) only, and allow it a little more
+  height so the top of the palm is not cut off.
 {% endcomment %}
 <style>
   .page__hero-image {
@@ -25,6 +26,7 @@
     object-fit: cover;
   }
   .page__hero-image[src$="front_gate.jpg"] {
+    max-height: 50vh;
     object-position: center bottom;
   }
 </style>
