@@ -15,7 +15,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 ### Community Overview
 
 * **Location:** Marion County, Florida, adjacent to Smith Lake
-* **Home sites:** Two to over eight acres, averaging five acres
+* **Home sites:** Two to over eight acres, averaging five acres. The [property map](/map/) shows each lot and its acreage.
 * **Lake access:** Private lake access via a common area with a boat ramp, pier, and parking lot with room for boat trailers
 * **Horses:** Equestrian-friendly, as specified in the deed restrictions
 * **Utilities:** Underground electrical service throughout
@@ -59,7 +59,7 @@ A short list of key restrictions for prospective buyers, with section references
 * **Tree removal (§5.8.17):** No living tree larger than 8 inches in diameter (measured 2 feet above ground) may be removed without prior ARB approval.
 * **Landscaping (§5.7.6):** Lots must be fully landscaped and grassed per ARB-approved plans before occupancy. Decorative rock yards, paved yards, and artificial vegetation are prohibited.
 * **Burning and fire pits (§5.8.3):** No burning of rubbish, leaves, or trash without ARB approval. Wood may be burned in a decorative fire pit whose design and location the ARB has approved.
-* **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The plat shows the easements on each lot.
+* **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The [property map](/map/) shows the easements, and the plats govern.
 * **Leasing (§5.9):** Homes may be leased for residential use only, with a minimum lease term of three months, so short-term rentals are not allowed. Leases must be in writing, tenants are bound by the Declaration, and the Association may terminate a lease if the tenant violates the Declaration.
 
 ### Roads, Gates, and Access

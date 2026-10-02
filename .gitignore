@@ -1,5 +1,12 @@
 # project
 _site
+_map/map.html
+_map/map.png
+# Plat scans and the Python environment used to trace them
+_map/.venv/
+_map/*.pdf
+_map/*-0*.png
+__pycache__/
 .sass-cache
 .vagrant
 
