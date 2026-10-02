@@ -3,8 +3,8 @@ layout: single
 title: Avonlea Community
 excerpt: Welcome to our neighborhood
 header:
-  image: /assets/img/avonlea_entry.png
-  image_description: "Avonlea Entry"
+  image: /assets/img/front_gate.jpg
+  image_description: "The Avonlea front gate, with the fountain and entrance signs on either side"
 ---
 
 # Smith Lake
