@@ -6,3 +6,13 @@
 {% if page.noindex %}
 <meta name="robots" content="noindex, nofollow">
 {% endif %}
+{% comment %}
+  Banner images are full width, so on a large monitor they grow tall enough
+  to fill the whole window. Cap the height and crop the image to fit.
+{% endcomment %}
+<style>
+  .page__hero-image {
+    max-height: 45vh;
+    object-fit: cover;
+  }
+</style>
