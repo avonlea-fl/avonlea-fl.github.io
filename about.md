@@ -13,4 +13,14 @@ header:
 * **Lot Sizes:** The community features spacious home sites ranging from two to over eight acres, with an average of five acres, ensuring privacy and quality of life.
 * **Lake Access:** Homeowners enjoy guaranteed access to the private lake via a common area featuring a boat ramp, pier, and parking lot with room for boat trailers.
 * **Horses & Pets:** Avonlea is an equestrian-friendly community. Horses are welcome as specified in the deed restrictions, and the terrain is perfect for our four-legged friends.
-* **Utilities:** The community features underground electrical service and street lights throughout, preserving the natural aesthetic.
+* **Gated Entrance:** A front gate and fountain welcome residents at the entrance, and the community's private roads are owned and maintained by the HOA.
+* **Utilities:** The community features underground electrical service throughout, preserving the natural aesthetic.
+* **Street Lights:** Street lights throughout the community are paid for by HOA dues.
+
+### Buying or Selling in Avonlea
+
+HOA dues, the recorded governing documents, and a summary of the deed restrictions are on the [Information for Real Estate Agents](/realtors/) page.
+
+### Contact
+
+Questions? Contact the HOA at [avonleahoainfo@gmail.com](mailto:avonleahoainfo@gmail.com).
