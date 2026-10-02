@@ -22,6 +22,22 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Street lights:** Street lights throughout the community, paid for by HOA dues
 * **Hamlet designation:** Avonlea is developed as a "Hamlet" under the Marion County Comprehensive Plan. No more than 40% of the gross land area may be developed, and at least 60% must remain permanent open space, including agricultural use. The plat shows the developable portion of each lot.
 
+### Property Map
+
+Explore Avonlea's current county parcels, lot numbers, and acreages. Open the full-size map and select a parcel to view its Marion County Property Appraiser record.
+
+<figure>
+  <a href="{{ '/assets/maps/avonlea-current-parcels.svg' | relative_url }}" aria-label="Open the full-size Avonlea property map with links to county parcel records">
+    <img src="{{ '/assets/maps/avonlea-current-parcels.webp' | relative_url }}" alt="Avonlea property map showing Smith Lake, community roads, numbered parcels and acreages, and hatched association-owned land. Lots 17 and 18 are combined, as are lots 32 and 33." width="1600" height="2333" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;">
+  </a>
+  <figcaption>Marion County parcel data retrieved October 2, 2026. Lot numbers were checked against the county property record cards.</figcaption>
+</figure>
+
+[Open full-size map]({{ '/assets/maps/avonlea-current-parcels.svg' | relative_url }}){: .btn .btn--primary }
+[Download PNG]({{ '/assets/maps/avonlea-current-parcels.png' | relative_url }}){: .btn download="avonlea-property-map.png" }
+
+This map is illustrative, not a survey. Development envelopes and conservation easements are not shown; consult the recorded plats for those details. [Parcel records and map sources]({{ '/property-map/' | relative_url }}) include the plat references and links to the official county records.
+
 ### Homeowners Association
 
 * **HOA name:** Avonlea Homeowners Association
