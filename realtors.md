@@ -2,6 +2,8 @@
 layout: single
 title: Information for Real Estate Agents
 permalink: /realtors/
+toc: true
+toc_sticky: true
 header:
   image: /assets/img/smith_lake_pier.jpg
   image_description: "The community pier on Smith Lake, framed by Spanish moss"
