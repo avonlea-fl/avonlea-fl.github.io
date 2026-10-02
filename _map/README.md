@@ -70,20 +70,20 @@ curl "$BASE/Streets/MapServer/0/query?$BOX&outFields=STREET,SUB_NAME,SEGMENT_ID&
 
 To run it again, or to add another plat:
 
-1. Open the plat in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/) and save it as a PDF. The viewer has a reCAPTCHA, so this step is manual.
+1. Get the plat PDF. The three current plats are in `docs/plats/`. For a new one, open it in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/) and save it as a PDF. The viewer has a reCAPTCHA, so this step is manual.
 2. Split the PDF into one image per sheet. `pdfimages` is part of poppler.
 3. Run the script on the detail sheets only (the ones drawn at 1 inch = 60 feet), not the cover or index sheets.
 
 ```bash
-pdfimages -png avonlea_phase_1.pdf sheet          # sheet-000.png ... sheet-008.png
+pdfimages -png ../docs/plats/2007-06-20_Avonlea-Phase-1_PB10-195.pdf sheet   # sheet-000.png ... sheet-008.png
 uv venv .venv && uv pip install --python .venv/bin/python numpy opencv-python-headless shapely
 .venv/bin/python extract_buildable.py "Plat Book 10, Page 195" sheet-00[2-8].png
 
-pdfimages -png avonlea_phase_2.pdf p2             # p2-000.png ... p2-004.png
+pdfimages -png ../docs/plats/2007-06-20_Avonlea-Phase-2_PB11-1.pdf p2       # p2-000.png ... p2-004.png
 .venv/bin/python extract_buildable.py "Plat Book 11, Page 1" p2-00[2-4].png
 ```
 
-Each run replaces the lots it finds and keeps the rest, so a second plat adds to the file. Every run then applies `REPLATS`, and running the script with no arguments applies only those. The plat scans and `.venv` are not kept in this repository.
+Each run replaces the lots it finds and keeps the rest, so a second plat adds to the file. Every run then applies `REPLATS`, and running the script with no arguments applies only those. The sheet images and `.venv` are not kept in this repository.
 
 What is in the file now:
 
