@@ -28,3 +28,14 @@
     object-position: center bottom;
   }
 </style>
+{% comment %}
+  The theme's blue (#0092ca) gives white text a contrast of only 3.5:1.
+  Use a slightly darker shade of the same blue wherever white text sits
+  on it, which brings the contrast to 4.6:1.
+{% endcomment %}
+<style>
+  .page__footer,
+  .toc .nav__title {
+    background-color: #007eae;
+  }
+</style>
