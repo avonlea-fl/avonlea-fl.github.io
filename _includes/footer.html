@@ -1,8 +1,8 @@
 {% comment %}
   Copy of the Minimal Mistakes 4.28.1 footer with the "Powered by Jekyll &
-  Minimal Mistakes" credit removed from the copyright line. If the pinned
-  theme version in _config.yml changes, compare this against the theme's
-  _includes/footer.html.
+  Minimal Mistakes" credit and the trailing full stop removed from the
+  copyright line. If the pinned theme version in _config.yml changes,
+  compare this against the theme's _includes/footer.html.
 {% endcomment %}
 {% assign locale = include.locale | default: site.locale %}
 {% unless site.atom_feed.hide %}
@@ -30,4 +30,4 @@
 </div>
 {% endif %}
 
-<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>.</div>
+<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a></div>

@@ -5,6 +5,8 @@ baseurl: ""
 author:
   name: Avonlea Community
 repository: avonlea-fl/avonlea-fl.github.io
+# Name shown after the © in the footer
+copyright: Avonlea Homeowners Association
 
 # Pinned to a release so a theme update cannot change the site unannounced
 remote_theme: mmistakes/minimal-mistakes@4.28.1
