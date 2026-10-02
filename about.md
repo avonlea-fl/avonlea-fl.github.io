@@ -10,7 +10,7 @@ header:
 
 ### Community Features
 
-* **Lot Sizes:** The community features spacious home sites ranging from two to over eight acres, with an average of five acres, ensuring privacy and quality of life.
+* **Lot Sizes:** The community features spacious home sites ranging from two to over eight acres, with an average of five acres, ensuring privacy and quality of life. The [property map](/map/) shows every lot.
 * **Lake Access:** Homeowners enjoy guaranteed access to the private lake via a common area featuring a boat ramp, pier, and parking lot with room for boat trailers.
 * **Horses & Pets:** Avonlea is an equestrian-friendly community. Horses are welcome as specified in the deed restrictions, and the terrain is perfect for our four-legged friends.
 * **Gated Entrance:** A front gate and fountain welcome residents at the entrance, and the community's private roads are owned and maintained by the HOA.

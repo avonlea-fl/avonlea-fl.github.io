@@ -16,6 +16,7 @@ Situated at one of the highest elevations in Marion County, the community is per
 ### Learn More
 
 * [About Avonlea](/about/): home sites, lake access, and community features
+* [Property Map](/map/): every lot, the private roads, and the lake access
 * [Information for Real Estate Agents](/realtors/): HOA dues, governing documents, and deed restrictions
 
 ### Contact
