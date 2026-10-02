@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /docs/
+
+Sitemap: https://avonlea-fl.org/sitemap.xml

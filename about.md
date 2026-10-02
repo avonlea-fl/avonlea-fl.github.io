@@ -2,6 +2,7 @@
 layout: single
 title: About Avonlea
 permalink: /about/
+description: "About Avonlea at Smith Lake: home sites of two to over eight acres, private lake access with a boat ramp and pier, and an equestrian-friendly setting."
 header:
   image: /assets/img/lane_to_smith_lake.jpg
   image_description: "Fence-lined lane under live oaks leading down to Smith Lake"
