@@ -23,11 +23,11 @@ Select the map to open it full size, or [download a printable copy (PDF)](/docs/
 
 ### Recorded Plats
 
-This map is for general reference only and is not a survey. The recorded plats govern, and they show details this map does not, including exact dimensions, utility and access easements, and the flood zone along the lake. Easement outlines here are accurate to within a few feet at best. The plats can be looked up by book and page in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/).
+This map is for general reference only and is not a survey. The recorded plats govern, and they show details this map does not, including exact dimensions, utility and access easements, and the flood zone along the lake. Easement outlines here are accurate to within a few feet at best. Copies of the plats are below, and they can be verified by book and page in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/).
 
-* Avonlea Phase 1: Plat Book 10, Page 195
-* Avonlea Phase 2: Plat Book 11, Page 1
-* Avonlea Phase 1, Replat of Lot 19: Plat Book 15, Page 16
+* [Avonlea Phase 1 (PDF, 15 MB)](/docs/plats/2007-06-20_Avonlea-Phase-1_PB10-195.pdf): Plat Book 10, Page 195
+* [Avonlea Phase 2 (PDF, 9 MB)](/docs/plats/2007-06-20_Avonlea-Phase-2_PB11-1.pdf): Plat Book 11, Page 1
+* [Avonlea Phase 1, Replat of Lot 19 (PDF, 0.7 MB)](/docs/plats/2022-07-07_Replat-of-Lot-19_PB15-16.pdf): Plat Book 15, Page 16
 
 ### Contact
 

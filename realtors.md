@@ -20,7 +20,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 * **Horses:** Equestrian-friendly, as specified in the deed restrictions
 * **Utilities:** Underground electrical service throughout
 * **Street lights:** Street lights throughout the community, paid for by HOA dues
-* **Hamlet designation:** Avonlea is developed as a "Hamlet" under the Marion County Comprehensive Plan. No more than 40% of the gross land area may be developed, and at least 60% must remain permanent open space, including agricultural use. The plat shows the developable portion of each lot.
+* **Hamlet designation:** Avonlea is developed as a "Hamlet" under the Marion County Comprehensive Plan. No more than 40% of the gross land area may be developed, and at least 60% must remain permanent open space, including agricultural use. The [recorded plats](#recorded-plats) show the developable portion of each lot.
 
 ### Homeowners Association
 
@@ -39,6 +39,16 @@ Copies of the recorded Declaration of Covenants and Restrictions and all amendme
 * [Third Amendment (PDF)](/docs/covenants/2017-03-23_Amendment_OR6550-1936.pdf), recorded 03/23/2017, File No. 2017026320, OR Book 6550, Page 1936
 * [Fourth Amendment (PDF)](/docs/covenants/2019-11-19_Amendment_OR7081-246.pdf), recorded 11/19/2019, File No. 2019121705, OR Book 7081, Page 246
 * [Certificate of Fourth Amendment (PDF)](/docs/covenants/2024-12-11_Amendment_OR8491-168.pdf), adopted 03/04/2023 and recorded 12/11/2024, File No. 2024162535, OR Book 8491, Page 168. Although titled "Fourth Amendment," this is a separate, later amendment from the one recorded in 2019.
+
+### Recorded Plats
+
+Copies of the recorded subdivision plats, from the Official Records of Marion County, Florida. The plats show each lot's dimensions, its developable area under the Hamlet designation, and the easements. To verify one in the [Marion County Clerk's Official Records search](https://nvweb.marioncountyclerk.org/BrowserView/), use the Book/Page tab and choose PLAT as the book type. The [property map](/map/) is drawn from these plats.
+
+* [Avonlea Phase 1 (PDF, 15 MB)](/docs/plats/2007-06-20_Avonlea-Phase-1_PB10-195.pdf), lots 1 through 30, recorded 06/20/2007, Plat Book 10, Pages 195–203
+* [Avonlea Phase 2 (PDF, 9 MB)](/docs/plats/2007-06-20_Avonlea-Phase-2_PB11-1.pdf), lots 31 through 38, recorded 06/20/2007, Plat Book 11, Pages 1–5
+* [Avonlea Phase 1, Replat of Lot 19 (PDF, 0.7 MB)](/docs/plats/2022-07-07_Replat-of-Lot-19_PB15-16.pdf), recorded 07/07/2022, Plat Book 15, Pages 16–17. This replaces the Phase 1 plat for lot 19.
+
+Later recorded documents changed some of the conservation easements shown on the plats. The First Amendment (2008) added easements, and the Certificate of Fourth Amendment (recorded 2024) released Conservation Easement E on lot 24 and added an access easement. Both are listed under Governing Documents above.
 
 ### Deed Restrictions
 
@@ -59,7 +69,7 @@ A short list of key restrictions for prospective buyers, with section references
 * **Tree removal (§5.8.17):** No living tree larger than 8 inches in diameter (measured 2 feet above ground) may be removed without prior ARB approval.
 * **Landscaping (§5.7.6):** Lots must be fully landscaped and grassed per ARB-approved plans before occupancy. Decorative rock yards, paved yards, and artificial vegetation are prohibited.
 * **Burning and fire pits (§5.8.3):** No burning of rubbish, leaves, or trash without ARB approval. Wood may be burned in a decorative fire pit whose design and location the ARB has approved.
-* **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The [property map](/map/) shows the easements, and the plats govern.
+* **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The [property map](/map/) shows the easements, and the [recorded plats](#recorded-plats) govern.
 * **Leasing (§5.9):** Homes may be leased for residential use only, with a minimum lease term of three months, so short-term rentals are not allowed. Leases must be in writing, tenants are bound by the Declaration, and the Association may terminate a lease if the tenant violates the Declaration.
 
 ### Roads, Gates, and Access
