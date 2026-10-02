@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Avonlea</title>
+  <!-- Gold "A" monogram modelled on the one on the front gates, on the dark panel of the entrance signs -->
+  <rect width="512" height="512" rx="96" fill="#2b2c2c"/>
+  <rect x="26" y="26" width="460" height="460" rx="74" fill="none" stroke="#e3bd55" stroke-width="10"/>
+  <g transform="translate(256 258) scale(1.16) translate(-256 -251)" fill="none" stroke="#e3bd55" stroke-linecap="round" stroke-linejoin="round">
+    <!-- legs: cross at the top and end in outward scrolls -->
+    <path stroke-width="40" d="M286 112 C262 150 236 250 196 338 C174 386 120 404 106 370 C98 348 122 332 138 346"/>
+    <path stroke-width="40" d="M226 112 C250 150 276 250 316 338 C338 386 392 404 406 370 C414 348 390 332 374 346"/>
+    <!-- leaf lobes on the outside of each leg -->
+    <path stroke-width="26" d="M222 262 C204 250 190 232 186 214"/>
+    <path stroke-width="26" d="M290 262 C308 250 322 232 326 214"/>
+    <!-- swag crossbar -->
+    <path stroke-width="28" d="M206 300 C232 336 280 336 306 300"/>
+  </g>
+</svg>

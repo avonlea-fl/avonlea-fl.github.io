@@ -7,6 +7,13 @@
 <meta name="robots" content="noindex, nofollow">
 {% endif %}
 {% comment %}
+  Site icon: the gold "A" from the front gates. Browsers that support SVG
+  icons use the .svg; the .ico is the fallback, and iOS uses the PNG.
+{% endcomment %}
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+{% comment %}
   Banner images are full width, so on a large monitor they grow tall enough
   to fill the whole window. Cap the height and crop the image to fit.
   The front gate photo is already cropped tight to the pavers at the
