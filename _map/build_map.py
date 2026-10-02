@@ -116,11 +116,12 @@ def label_point(ring, half_w=0.0, step=3.0):
     return best
 
 
-def free_spot(ring, holes, target, half_w, clear, step=3.0):
+def free_spot(ring, holes, target, half_w, clear, step=3.0, below=None, fallback=True):
     """Spot for a label on the part of a lot outside its buildable areas.
 
     Returns the point nearest `target` that has `clear` metres of room around
-    a label 2 * half_w wide; failing that, the roomiest point there is.
+    a label 2 * half_w wide; failing that, the roomiest point there is (or
+    None if `fallback` is off). With `below`, only points south of it count.
     """
     edges = [e for r in [ring] + holes for e in zip(r, r[1:])]
     xs = [p[0] for p in ring]
@@ -135,11 +136,11 @@ def free_spot(ring, holes, target, half_w, clear, step=3.0):
                 d = min(seg_dist(q, a, b) for q in pts for a, b in edges)
                 if d > roomy[1]:
                     roomy = ((x, y), d)
-                if d >= clear and math.dist((x, y), target) < near[1]:
+                if d >= clear and (below is None or y >= below) and math.dist((x, y), target) < near[1]:
                     near = ((x, y), math.dist((x, y), target))
             x += step
         y += step
-    return near[0] or roomy[0]
+    return near[0] or (roomy[0] if fallback else None)
 
 
 def touches_lot(ring, lot):
@@ -200,7 +201,13 @@ if PREFIX + "22" not in ring_of:
 # County parcels that combine two platted lots.
 COMBINED = {"17": "17 & 18", "33": "32 & 33"}
 # Pixel offsets for lot labels that would otherwise collide with another label.
-LABEL_NUDGE = {"1": (121, 48)}      # acreage clear of the front gate label
+LABEL_NUDGE = {
+    "1": (121, 48),         # acreage clear of the front gate label
+    # Lot 30 has no room beneath its buildable area, so its acreage sits just
+    # under lot 29's. Stagger the two so they do not read as one stack.
+    "29": (78, 0),
+    "30": (-58, 0),
+}
 
 lots = sorted(k for k in ring_of if k.startswith(PREFIX) and k != ROAD)
 
@@ -405,9 +412,21 @@ for k in lots:
                      for r in rings(f) if touches_lot(r, ring_of[k])]
     if len(patches) > 1:        # between the two buildable areas
         target = (sum(c[0] for c in centres) / len(centres), sum(c[1] for c in centres) / len(centres))
+        below = None
     else:                       # just below the buildable area
         target = (centres[0][0], max(p[1] for p in holes[0]) + 11)
-    x, y = px(free_spot(ring_of[k], avoid, target, half, 10.5) or free_spot(ring_of[k], holes, target, half, 10.5))
+        below = centres[0][1]
+    # Under the lot's own buildable area if at all possible, so the label is
+    # not read as belonging to the lot across the nearest line; then anywhere
+    # clear; then the roomiest spot.
+    tries = [(avoid, c, below) for c in (8.0, 6.5, 5.5)] if below is not None else []
+    tries += [(avoid, 8.0, None), (avoid, 6.5, None)]
+    spot = None
+    for obstacles, clear, south_of in tries:
+        spot = free_spot(ring_of[k], obstacles, target, half, clear, below=south_of, fallback=False)
+        if spot:
+            break
+    x, y = px(spot or free_spot(ring_of[k], avoid, target, half, 5.5) or free_spot(ring_of[k], holes, target, half, 5.5))
     x, y = x + LABEL_NUDGE.get(num, (0, 0))[0], y + LABEL_NUDGE.get(num, (0, 0))[1]
     add(f'<text x="{x:.0f}" y="{y+8:.0f}" font-size="25" font-style="italic" fill="#3d5a41" stroke-width="4">{text}</text>')
 add('</g>')
