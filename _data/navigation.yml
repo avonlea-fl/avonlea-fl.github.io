@@ -5,5 +5,7 @@ main:
     url: /about/
   - title: "Map"
     url: /map/
+  - title: "Residents"
+    url: /residents/
   - title: "Realtors"
     url: /realtors/
