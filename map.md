@@ -12,7 +12,7 @@ Select the map to open it full size, or [download a printable copy (PDF)](/docs/
 
 ### About This Map
 
-* **Lots:** Lot lines and acreages come from Marion County Property Appraiser parcel records as of October 2026. Each acreage is for the whole lot.
+* **Lots:** Avonlea is about 192 acres by the recorded plats: 152.6 acres in Phase 1 and 39.6 acres in Phase 2. It has 38 platted lots, held as 36 home sites because two pairs of lots are combined. Lot lines and acreages come from Marion County Property Appraiser parcel records as of October 2026. Each acreage is for the whole lot.
 * **Buildable areas:** The cream areas with dashed outlines are the part of each lot that may be developed, traced from the recorded plats of Avonlea Phase 1 (lots 1 through 30) and Phase 2 (lots 31 through 38). Lot 19 is shown as redrawn by its 2022 replat.
 * **Conservation easements:** The green hatched areas are conservation easements held by the St. Johns River Water Management District. They must stay in their natural state: no clearing, grazing, riding, or dumping. They are shown as they stand today, which means the easements on the plats, plus the additional strips recorded in 2008 and 2024, and without Conservation Easement E on lot 24, which was released in 2024.
 * **Drainage easements:** The blue areas with dotted outlines are the drainage easements shown on the plats.

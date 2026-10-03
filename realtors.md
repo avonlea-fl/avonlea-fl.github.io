@@ -15,7 +15,7 @@ Thank you for representing a buyer or seller in Avonlea at Smith Lake. This page
 ### Community Overview
 
 * **Location:** Marion County, Florida, adjacent to Smith Lake
-* **Home sites:** Two to over eight acres, averaging five acres. The [property map](/map/) shows each lot and its acreage.
+* **Home sites:** 38 platted lots on about 192 acres, each two to over eight acres and averaging five acres. The [property map](/map/) shows each lot and its acreage.
 * **Lake access:** Private lake access via a common area with a boat ramp, pier, and parking lot with room for boat trailers
 * **Horses:** Equestrian-friendly, as specified in the deed restrictions
 * **Utilities:** Underground electrical service throughout
