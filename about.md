@@ -17,6 +17,10 @@ header:
 * **Utilities:** The community features underground electrical service throughout, preserving the natural aesthetic.
 * **Street Lights:** Street lights throughout the community are paid for by HOA dues.
 
+### Living in Avonlea
+
+The Board / ARB approval form, dues, the gate, and trash service are on the [Information for Residents](/residents/) page.
+
 ### Buying or Selling in Avonlea
 
 HOA dues, the recorded governing documents, and a summary of the deed restrictions are on the [Information for Real Estate Agents](/realtors/) page.
