@@ -6,8 +6,8 @@ description: "For owners in Avonlea at Smith Lake: the Board / ARB approval form
 toc: true
 toc_sticky: true
 header:
-  image: /assets/img/lane_to_smith_lake.jpg
-  image_description: "Fence-lined lane under live oaks leading down to Smith Lake"
+  image: /assets/img/street_lights_sunrise.jpg
+  image_description: "Two street lights still lit along a private road at sunrise, under live oaks draped in Spanish moss"
 ---
 
 This page collects what owners in Avonlea most often need: the form for Board and ARB requests, what work needs approval, dues, the gate, trash service, and where to find the governing documents.
