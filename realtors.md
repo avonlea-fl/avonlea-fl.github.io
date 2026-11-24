@@ -72,6 +72,15 @@ A short list of key restrictions for prospective buyers, with section references
 * **Conservation easements and docks (§2.9, §5.12):** Portions of some lots are conservation easements held by the St. Johns River Water Management District. Owners of lots in the designated Dock Access Areas may build and maintain docks or piers there, subject to the limits in the Agreement Concerning Conservation Easements. The [property map](/map/) shows the easements, and the [recorded plats](#recorded-plats) govern.
 * **Leasing (§5.9):** Homes may be leased for residential use only, with a minimum lease term of three months, so short-term rentals are not allowed. Leases must be in writing, tenants are bound by the Declaration, and the Association may terminate a lease if the tenant violates the Declaration.
 
+### Real Estate Signs
+
+The Declaration limits the signs that may be displayed on a lot. For a listing:
+
+* **One sign per lot (§5.8.6):** A single commercial real estate sign advertising that lot or home for sale or for rent may be displayed without ARB approval.
+* **Size (§5.8.6):** The sign may be no larger than 18 by 30 inches.
+* **Placement (§5.8.6, §5.8.15, §2.9.2):** Signs may not be placed on or attached to trees, shrubs, fences, utility poles, or a mailbox or its post. Signs are also prohibited in the conservation easement areas.
+* **Additional signs (§5.8.6):** Any other sign within public view requires ARB approval, which the Declaration allows only to avert serious hardship to the owner.
+
 ### Roads, Gates, and Access
 
 * **Roads:** Private roads owned and maintained by the HOA, not Marion County.
